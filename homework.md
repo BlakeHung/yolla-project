@@ -22,8 +22,6 @@ It is already designed as infinite scroll. Users are complaining it is using too
 
 on their device. What do you do?
 
-
-
 ###### Q3:
 
 ###### Scenario:
@@ -38,8 +36,6 @@ on their device. What do you do?
 
  Non registered users can view the blog posts only.
 
-
-
 Please design user interface for the Website Admin to use. And explain your design.
 
  Dashboard for Website Owner to see
@@ -51,3 +47,7 @@ Please design user interface for the Website Admin to use. And explain your desi
 透過程式或者手繪將wireframe畫出來
 
 
+
+Q5: Backend is Laravel. Database is MySQL. Frontend is Vue3. 2 EC2 instances one for
+application, and MySQL currently using AWS EC2. If Queries per second (QPS) goes
+from 300 to 3,000. You have 2~3 days. Can not stop the machine. What do you do?
